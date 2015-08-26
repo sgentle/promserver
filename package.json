@@ -1,0 +1,15 @@
+{
+  "name": "promserver",
+  "version": "0.0.0",
+  "description": "Promise-based webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No tests yet, sorry!"
+  },
+  "author": "Sam Gentle <sam@samgentle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.3.2",
+    "coffee-script": "^1.9.3"
+  }
+}
